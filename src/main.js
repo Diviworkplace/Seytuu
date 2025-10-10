@@ -23,3 +23,7 @@ import './js/common/smooth-scrolling';
 import './js/utils/counter';
 import './js/utils/leaflet';
 import './js/utils/theme-switcher';
+
+import { setupContactFormEmail } from './js/common/contact-form-email';
+
+setupContactFormEmail();
