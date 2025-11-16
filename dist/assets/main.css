@@ -3363,10 +3363,6 @@ body {
     max-width: 186px;
   }
 
-  .max-w-\[200px\] {
-    max-width: 200px;
-  }
-
   .max-w-\[219px\] {
     max-width: 219px;
   }
@@ -5503,10 +5499,6 @@ body {
 
   .pb-\[200px\] {
     padding-bottom: 200px;
-  }
-
-  .pl-4 {
-    padding-left: calc(var(--spacing) * 4);
   }
 
   .text-center {
