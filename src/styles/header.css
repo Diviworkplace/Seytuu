@@ -38,7 +38,7 @@ Sidebar and header animations
 
 /* Header scroll states */
 .scroll-header {
-  @apply top-2;
+  @apply top-0;
 }
 
 .header-two-scroll {
