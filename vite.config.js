@@ -134,6 +134,7 @@ export default defineConfig({
   },
   server: {
     open: true,
+    allowedHosts: ['seytuu.onrender.com'],
   },
   base: './',
 });
